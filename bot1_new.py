@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests
 import vk_api, json, sqlite3
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
